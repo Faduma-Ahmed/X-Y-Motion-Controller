@@ -10,7 +10,7 @@
  - Feasiblity Model : refined and tested our initial design ideas against functional requirements.
  
  - Schematic Design: use EDA tool, diptrace in order to intergrate our actuators & sensors into a single circuit
- - PCB Design: realized our schematic onto a PCB layout
+ - PCB Design: used CAD tool to realize our schematic onto a PCB layout
  - PCB Assembly: soldered modules onto our fabricated board, finished programming MCU 
 
 
