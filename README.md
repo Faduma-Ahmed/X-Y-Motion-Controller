@@ -2,8 +2,8 @@
 
  
   
- Using TI MSP430 microcontrolller we were able to read 5 target axis coordinate pairs and move 
- motors to those coordinates sequentially. 
+ Designed and assembled PCB to move motor to target coordinates. Programmed TI MSP430 microcontrolller to read user input and control sensors/actuators
+
  
  #### Workflow 
  
