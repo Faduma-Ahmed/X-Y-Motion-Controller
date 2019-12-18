@@ -2,7 +2,7 @@
 
  
   
- Designed and assembled PCB to move motor to target coordinates. Programmed TI MSP430 microcontrolller to read user input and control sensors/actuators
+ Designed and assembled PCB to move motor to target coordinates. Programmed TI MSP430 microcontrolller to read user input and control sensors/motors
 
  
  #### Workflow 
