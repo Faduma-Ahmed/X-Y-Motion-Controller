@@ -3,7 +3,7 @@
  Designed and assembled PCB to move motor to target coordinates. Programmed TI MSP430 microcontrolller to read user input and control sensors/motors
  
  ## Schematic 
- <img src="Schematic.png" width="800">
+ <img src="Schematic.png" width="1000">
  
  ## PCB Design
  <img src="PCB.png" width="500">
