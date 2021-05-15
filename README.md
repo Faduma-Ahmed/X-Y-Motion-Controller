@@ -1,9 +1,16 @@
 # X-Y-Motion-Controller
 
- 
-  
  Designed and assembled PCB to move motor to target coordinates. Programmed TI MSP430 microcontrolller to read user input and control sensors/motors
-
+ 
+ ## Schematic 
+ <img src="Schematic.png" width="500">
+ 
+ ## PCB Design
+ <img src="PCB.png" width="500">
+ 
+ ## Final Product
+ <img src="Final Product.png" width="500">
+ 
  
  #### Workflow 
  
